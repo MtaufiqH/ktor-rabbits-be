@@ -1,0 +1,1 @@
+rootProject.name = "app.taufiq.ktor-rabbits"
